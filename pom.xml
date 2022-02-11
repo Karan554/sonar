@@ -139,9 +139,6 @@
 			<version>5.1</version>
 		    </plugin>
 		    <plugin>
-			<groupId>org.codehaus.sonar</groupId>
-			<artifactId>sonar-maven-plugin</artifactId>
-			<version>5.1</version>
 		        <groupId>org.jacoco</groupId>
 		        <artifactId>jacoco-maven-plugin</artifactId>
 		        <version>0.7.2.201409121644</version>
